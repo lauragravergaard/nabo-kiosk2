@@ -1,1 +1,1 @@
-# nabo-kiosk2
+# nabokiosk1
